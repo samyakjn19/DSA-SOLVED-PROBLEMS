@@ -6,9 +6,12 @@ public class first {
         for(int i =0;i<9;i++){
             System.out.println(2*i);
             System.out.println(3*i);
+
+            System.out.println("i love dogs");
             
             System.out.println(2*i);
             System.out.println(3*i);
+
         }
     }
     
