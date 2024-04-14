@@ -7,6 +7,8 @@ public class first {
             System.out.println(2*i);
             System.out.println(3*i);
             
+            System.out.println(2*i);
+            System.out.println(3*i);
         }
     }
     
